@@ -4,6 +4,9 @@
 
 import { mkdirSync, writeFileSync } from "node:fs";
 
+// Entry: a warning to the 18-year-old self not to lie to the nurse —
+// the small "I'm fine" in that cold white room is the hinge the whole
+// entry turns on; everything after it is the price of that one lie.
 const LINE_1 =
   "Don't say 'I'm fine' when the nurse asks twice in the cold white room on the morning of your eighteenth birthday.";
 const LINE_2 =
